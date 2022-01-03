@@ -6,6 +6,9 @@ Authors: Tim Davidson (timdavidson2), Elbin Cenisev(elbin-cenisev), Melaku Sheri
 MusicMatcher is a webapp that allows users to find new artists that they might like based on artists/songs/albums
 that they put into the search function of the app.
 
+## User Experience
+This app is designed for users who want to find some new music that they are likely to enjoy based on their favorite artists/songs/albums.
+
 ## Technologies Used
 MusicMatcher was written using HTML5, CSS3, Javascript 1.8.5, and makes use of the Last.FM and MusixMatch APIs, as well as the Materialize (1.0) CSS framework.
 
